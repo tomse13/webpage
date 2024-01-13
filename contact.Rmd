@@ -1,0 +1,16 @@
+---
+title: "Contact"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+e-mail: tomaserrano13@gmail.com
+
+
+Github: https://github.com/tomaserrano13
+
+
+Linkedin: *add URL here*

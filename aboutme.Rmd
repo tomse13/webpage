@@ -1,0 +1,12 @@
+---
+title: "About Me"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Hey there! My name is Tomas Serrano, a 26 years old science and tech enthusiast and learner. I studied a Bachelor's in Electromechanical Engineering and a Master's in Advanced Technology, and now I want to pursue a career as a Data Scientific. Both school and work have taught me valuable lessons, but the one I take everywhere I go is that humans are eternal students and the learning process never stops, no matter how old we are or where we are standing. My interests are data science & analysis, applied statistics, programming with Python and R, and research. My personal interests include basketball, video games, karaoke nights, and my precious dog Bruno.
+
